@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "desc": "Description of Product 1",
+      "price": 29.99,
+      "color": "#3498db",
+      "image": "https://source.unsplash.com/600x400/?product1"
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "desc": "Description of Product 2",
+      "price": 39.99,
+      "color": "#e74c3c",
+      "image": "https://source.unsplash.com/600x400/?product2"
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "desc": "Description of Product 3",
+      "price": 49.99,
+      "color": "#2ecc71",
+      "image": "https://source.unsplash.com/600x400/?product3"
+    },
+    {
+      "id": "4",
+      "name": "Product 4",
+      "desc": "Description of Product 4",
+      "price": 59.99,
+      "color": "#f39c12",
+      "image": "https://source.unsplash.com/600x400/?product4"
+    },
+    {
+      "id": "5",
+      "name": "Product 5",
+      "desc": "Description of Product 5",
+      "price": 69.99,
+      "color": "#9b59b6",
+      "image": "https://source.unsplash.com/600x400/?product5"
+    },
+    {
+      "id": "6",
+      "name": "Product 6",
+      "desc": "Description of Product 6",
+      "price": 79.99,
+      "color": "#34495e",
+      "image": "https://source.unsplash.com/600x400/?product6"
+    }
+  ]
+}
